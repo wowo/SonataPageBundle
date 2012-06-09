@@ -582,6 +582,18 @@
           <source>sonata_page</source>
           <target>Pages</target>
       </trans-unit>
+      <trans-unit id="145" resname="title_select_site">
+          <source>title_select_site</source>
+          <target>Select site</target>
+      </trans-unit>
+      <trans-unit id="146" resname="message_create_page">
+          <source>message_create_page</source>
+          <target>Create page</target>
+      </trans-unit>
+      <trans-unit id="147" resname="breadcrumb.link_page_history">
+          <source>breadcrumb.link_page_history</source>
+          <target>Page history</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
